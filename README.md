@@ -2,7 +2,7 @@
    
 |Xss|Xss Vulnerability Scanner|for web application|
 |----------------|--------------|-------------|
-| `X`| `=`| `Cross Site Scripting (XSS)`|
+|`Cross Site Scripting (XSS)`|
 
 </div>
 
