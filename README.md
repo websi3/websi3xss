@@ -2,14 +2,13 @@
    
 |Xss|Xss Vulnerability Scanner|for web application|
 |----------------|--------------|-------------|
-|`Cross Site Scripting (XSS)`|
+|`Cross Site Scripting (XSS)`| YES| Yes | 
 
 </div>
 
 <hr>
 
-<br>
-<br>
+
 <br>
 
 
